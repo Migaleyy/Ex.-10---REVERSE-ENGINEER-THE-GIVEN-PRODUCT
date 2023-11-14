@@ -37,8 +37,8 @@
 ![281954122-7d93834a-674d-4f50-a255-3e6e6b8e8c3c](https://github.com/Sudharsanram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393980/17156309-0faf-4e80-afdd-151f418d4dc4)
 
 
-### Name: SUDHARSAN RAM M
-### Register Number: 212222110048
+### Name: Migal G Arunadann
+### Register Number: 212222110025
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
